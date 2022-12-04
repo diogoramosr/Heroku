@@ -1,6 +1,6 @@
 # Ligação com plataforma em nuvem
 
-<img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
           
 <p>Projeto em desenvolvimento para colocar em prática as técnicas aprendida em Arquitetura Orientada a Serviços, referente a grade curricular do Colégio Técnico de Campinas - Desenvolvimento de Sistemas.</p>
 
