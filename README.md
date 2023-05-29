@@ -1,13 +1,12 @@
 # Ligação com plataforma em nuvem
-
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
           
 <p>Projeto em desenvolvimento para colocar em prática as técnicas aprendida em Arquitetura Orientada a Serviços, referente a grade curricular do Colégio Técnico de Campinas - Desenvolvimento de Sistemas.</p>
 
 
-## Plataforma
+## :rocket: Tecnologias
 
-A plataforma de nuvem ultilizada para Desenvolver esse projeto foi: <img align="center" alt="Heroku" height="60" width="140" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/>
+-  [JavaScript](https://262.ecma-international.org/5.1/)
+-  [Heroku](https://www.heroku.com/)
 
 ---
 
